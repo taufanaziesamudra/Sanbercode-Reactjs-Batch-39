@@ -1,6 +1,7 @@
 import "./App.css";
 import Tugas7 from "./Tugas7/Tugas7";
 import Tugas8 from "./Tugas8/Tugas8";
+import Tugas9 from "./Tugas9/Tugas9";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         batch="39"
         email="taufanaziesamudra@gmail.com"
       />
+      <Tugas9 />
     </div>
   );
 }

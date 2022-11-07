@@ -1,0 +1,19 @@
+.box3 {
+  width: 50%;
+  /* text-align: center; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 25%;
+  /* justify-content: center;
+       display: flex; */
+}
+
+.count {
+  text-align: center;
+}
+button {
+  height: 30px;
+  width: 100%;
+}
