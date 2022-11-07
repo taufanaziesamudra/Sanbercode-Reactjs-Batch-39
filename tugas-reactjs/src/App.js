@@ -1,11 +1,16 @@
 import "./App.css";
+import Tugas7 from "./Tugas7/Tugas7";
+import Tugas8 from "./Tugas8/Tugas8";
 
 function App() {
   return (
-    <div className="App">
-      <h1> Hi, Saya Taufan</h1>
-      <hr />
-      <p>Saya dari Batch 39 sudah berhasil menginstall ReactJS</p>
+    <div>
+      <Tugas7 />
+      <Tugas8
+        name="Taufan Ajie Samudro"
+        batch="39"
+        email="taufanaziesamudra@gmail.com"
+      />
     </div>
   );
 }
